@@ -1,5 +1,4 @@
-package calculadora;
-
+import calculadora.TestCalculadora;
 import junit.framework.JUnit4TestAdapter;
 import junit.framework.TestSuite;
 import org.junit.runner.RunWith;
